@@ -1,5 +1,7 @@
 #include <iostream>
 
+//Я устал
+
 int main(){
    char* name = "";
    std::cout << "Your name is: ";
