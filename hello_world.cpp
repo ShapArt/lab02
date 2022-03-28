@@ -1,11 +1,11 @@
 #include <iostream>
 
-//Ego sum defessus
+//Я устал
 
 int main(){
    char* name = "";
    std::cout << "Your name is: ";
    std::cin >> name;
-   std::cout << "Hello world from" << name << std::endl;
+   std::cout << "Hello world from" << name;
    return 0;
 }
