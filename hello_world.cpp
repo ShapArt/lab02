@@ -1,6 +1,6 @@
 #include <iostream>
 
-//Я устал
+//Ego sum defessus
 
 int main(){
    char* name = "";
